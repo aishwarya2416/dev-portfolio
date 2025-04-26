@@ -1,63 +1,50 @@
 {
-    "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
+    "intro": "I have a strong foundation in data-driven marketing, customer segmentation, campaign optimization, and marketing strategy development.\n\n\n My skills focus on analyzing customer behavior, enhancing digital experiences, optimizing marketing operations, and driving business growth across both B2B and B2C sectors.",
     "skills": [{
      
-            "title": "Languages & Databases",
+            "title": "Databases & Visualization Tools",
             "items" : [
      
                 {
-                    "icon": "images/skills/java.png",
-                    "title": "Java"
+                    "icon": "images/skills/excel.jpeg",
+                    "title": "Microsoft Excel"
                 },
                 {
-                    "icon": "images/skills/php.png",
-                    "title": "PHP"
+                    "icon": "images/skills/sql.webp",
+                    "title": "SQL"
                 },
                 {
-                    "icon": "images/skills/js.png",
-                    "title": "JavaScript"
+                    "icon": "images/skills/tableau.svg",
+                    "title": "Tableau"
                 },
                 {
-                    "icon": "images/skills/python.png",
-                    "title": "Python"
-                },
-                {
-                    "icon": "images/skills/mysql.png",
-                    "title": "MySQL"
+                    "icon": "images/skills/google.png",
+                    "title": "Google Analytics"
                 }
         ]},
         {
-            "title": "Frameworks & Technologies",
+            "title": "Marketing Tools and Platforms",
             "items" : [
                 {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
+                    "icon": "images/skills/salesforce.png",
+                    "title": "Salesforce"
                 },
                 {
-                    "icon": "images/skills/react.png",
-                    "title": "React"
+                    "icon": "images/skills/hubspot.png",
+                    "title": "HubSpot"
                 },
                 {
-                    "icon": "images/skills/nodejs.png",
-                    "title": "Nodejs"
+                    "icon": "images/skills/dynamics365.png",
+                    "title": "Microsoft Dynamics 365"
+                },
+                {
+                    "icon": "images/skills/marketo.png",
+                    "title": "Marketo"
+                },
+                {
+                    "icon": "images/skills/sharepoint.png",
+                    "title": "SharePoint"
                 }
             ]
-        },
-        {
-            "title" : "Tools & Platforms",
-            "items": [
-                {
-                    "icon": "images/skills/android-studio.png",
-                    "title": "Android Studio"
-                },
-                {
-                    "icon": "images/skills/git.png",
-                    "title": "Git"
-                },
-                {
-                    "icon": "images/skills/docker.png",
-                    "title": "Docker"
-                }
-            ]
-    }
+        }
 ]}

@@ -1,19 +1,19 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
+            "title": "Aug 2023 - May 2025",
+            "cardTitle": "Masters of Business Administration (STEM)",
+            "cardSubtitle":"Lewis University, Romeoville",
+            "cardDetailedText": "CGPA - 3.7",
             "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+                "src": "images/education/lewis_university.jpeg"
             }
         },
         {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "title": "Sep 2016 - Oct 2020",
+            "cardTitle": "Bachelors of Commerce",
+            "cardSubtitle":"Mumbai University, Mumbai",
+            "cardDetailedText": "Marks - 80%"
         }
     ]
 }

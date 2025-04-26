@@ -1,33 +1,48 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Digital Marketing Intern",
+            "subtitle": "biztechmentor",
+            "workType": "Part-time",
+            "workDescription": [
+                "Ideated and deployed digital and email campaigns to support client acquisition and retention",
+                "Delivered data-driven campaign performance reports to guide optimization and budget decisions.",
+                "Collaborated with cross-functional teams to align messaging and maintain brand compliance",
+                "Implemented A/B testing for subject lines and creatives to improve conversion metrics"
+            ],
+            "dateText": "02/2025 – Present"
+        },
+        {
+            "title": "Graduate Student Worker",
+            "subtitle": "Lewis University",
+            "workType": "Part-time",
+            "workDescription": [
+                "Managed communications calendar and developed email campaigns to increase engagement among prospective and current students",
+                "Partnered with stakeholders to ensure marketing content reflected university priorities and goals"
+            ],
+            "dateText": "01/2024 – Present"
+        },
+        {
+            "title": "Marketing Analyst",
+            "subtitle": "Suyash Developer",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Executed multi-channel outreach initiatives, including WhatsApp, email, and direct mail, to drive acquisition",
+                "Built and refined reporting dashboards to track campaign KPIs and customer engagement trends",
+                "Conducted customer research to inform targeted messaging strategies across platforms"
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "08/2023 – Present"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Business Development Executive",
+            "subtitle": "Budding Influencer",
+            "workType": "Full-time",
             "workDescription": [
-                "Worked on abc."
+                "Developed and executed creative acquisition campaigns across social and email, increasing lead volume by 20%",
+                "Conducted user testing and gathered insights to enhance message relevance and campaign results",
+                "Fostered strong relationships with influencers and media partners to drive conversion-focused content"
             ],
-            "dateText": "01/20XX – 05/20XX"
-        },
-        {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
-            "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
-            ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "07/2022 – 05/2023"
         }
     ]
 }
