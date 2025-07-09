@@ -11,7 +11,7 @@
             ]
         },
         {
-            "image" : "public/images/projects/ Creating_a_Simple_Web_page.png",
+            "image" : "images/projects/Creating_a_Simple_Web_page.png",
             "title": "Thomas J. Watson Fan Page",
             "bodyText": "📄 Built a static HTML page dedicated to Thomas J. Watson, Sr., the founder of IBM.\n\n\nI am excited to Showcased historical achievements with a brief biography, major milestones, and IBM's growth during his leadership.\n\n\n📊 Included a styled HTML table displaying IBM's employee and income growth from 1925 to 1935.\n\n\nIntegrated an interactive form where users can submit feedback or insights, using:\n\n\n✅ Input fields for name and email\n\n\n✅ A textarea for comments\n\n\n✅ Required field validation for better user experience\n\n\n🔗Linked to external resources, including the official IBM website.\n\n\n🎨 Used semantic HTML elements.\n\n\n🚀 Foundation for future enhancement,such as connecting the form to a backend or database for storing submissions.",
             "tags" : [
