@@ -11,6 +11,16 @@
             ]
         },
         {
+            "image" : "images/projects/Influencer_Project.png",
+            "title": "Influencer Marketing Campaign Dashboard",
+            "bodyText": "📊 Funnel Snapshot: 39 M 👀 → 145K🖱️→3.4K📝→441✅→58🤝\n\n\nKey KPI Ribbon (top row)\n\n\n📊 🚀 Top KPIs: 1.30M📈| 0.37%🔗| $1.79💵| 1.79%🎯| 2.15%🔄 | $99.65🤑\n\n\n💡 Bubble View: Cost 💲 vs. Interactions ⚡, colored by lead score (🟢A–🔴D) to spot costly low-quality clicks fast.\n\n\n🏆 Top Campaigns: Bar chart crowns two campaigns with >250 conversions🏅\n\n\n📈 Trend Line: Monthly leads (green bars) vs. spend (teal line) shows spikes in Nov ’15 🚀 and efficient gains Feb ’16 💪.\n\n\nAll in, this dashboard delivers an at-a-glance pulse on your PPC engine, turning complex data into clear action.",
+            "tags" : [
+                "Tableau",
+                "Data Analysis",
+                "Microsoft Excel"
+            ]
+         },
+        {
             "image" : "images/projects/Creating_a_Simple_Web_page.png",
             "title": "Thomas J. Watson Fan Page",
             "bodyText": "📄 Built a static HTML page dedicated to Thomas J. Watson, Sr., the founder of IBM.\n\n\nI am excited to Showcased historical achievements with a brief biography, major milestones, and IBM's growth during his leadership.\n\n\n📊 Included a styled HTML table displaying IBM's employee and income growth from 1925 to 1935.\n\n\nIntegrated an interactive form where users can submit feedback or insights, using:\n\n\n✅ Input fields for name and email\n\n\n✅ A textarea for comments\n\n\n✅ Required field validation for better user experience\n\n\n🔗Linked to external resources, including the official IBM website.\n\n\n🎨 Used semantic HTML elements.\n\n\n🚀 Foundation for future enhancement,such as connecting the form to a backend or database for storing submissions.",
